@@ -200,6 +200,6 @@
     "href": "slides/interactivity_slides.html#hypothesis-testing",
     "title": "Interactive learning using Observable javascript",
     "section": "Hypothesis testing",
-    "text": "Hypothesis testing\n\nHypothesis test for a mean\nType I and II errors\nBayesian hypothesis test for a mean"
+    "text": "Hypothesis testing\n\nHypothesis testing for the mean in a normal population\nType I and II errors\nBayesian hypothesis testing for the mean in a normal population"
   }
 ]

@@ -58,11 +58,11 @@ resources:
 
 ## Hypothesis testing
 
--   [Hypothesis test for a mean](https://observablehq.com/@mattiasvillani/hypothesis-test-mean)
+-   [Hypothesis testing for the mean in a normal population](https://observablehq.com/@mattiasvillani/hypothesis-test-mean)
 
 -   [Type I and II errors](https://observablehq.com/@mattiasvillani/hypothesis-test-for-a-mean-type-i-and-ii-errors)
 
--   [Bayesian hypothesis test for a mean](https://observablehq.com/@mattiasvillani/bayesian-test-mean-normal-pop)
+-   [Bayesian hypothesis testing for the mean in a normal population](https://observablehq.com/@mattiasvillani/bayesian-test-mean-normal-pop)
 
 ## Basic mathematics
 
