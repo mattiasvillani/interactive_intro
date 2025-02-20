@@ -67,7 +67,7 @@
     "href": "slides/interactivity_slides.html#the-three-components-of-a-web-page",
     "title": "Interactivity - a complementary tool in the educational toolbox",
     "section": "The three components of a web page",
-    "text": "The three components of a web page\n\n\n\n\n\n\n\n\nHTML\nCSS\nJavascript\n\n\n\n\n\n\n\n\n\nWhat to show (text)\nHow to show it (design)\nWhat to do (interactivity)\n\n\n\nJavascript is the language of the web:\n\nRuns in all major browsers without install\nJust-in-time compiled. Pretty quick!"
+    "text": "The three components of a web page\n\n\n\n\n\n\n\n\nHTML\nCSS\nJavascript\n\n\n\n\n\n\n\n\n\nWhat to show (text)\nHow to show it (design)\nWhat to do (interactivity)\n\n\n\n\nJavascript is the language of the web:\n\nRuns in all major browsers without install\nJust-in-time compiled. Pretty quick!\n\nToy example"
   },
   {
     "objectID": "slides/interactivity_slides.html#fork-the-notebook-to-adapt-it",
@@ -151,6 +151,13 @@
     "href": "slides/interactivity_slides.html#outline-of-the-talk",
     "title": "Interactivity - a complementary tool in the educational toolbox",
     "section": "Outline of the talk",
-    "text": "Outline of the talk\n\nTour of some interactive notebooks for Statistics that I have done for courses and research.\nHow you can use and modify them for your needs.\nA little under the hood (Javascript) on how were done."
+    "text": "Outline of the talk\n\nTour of some interactive notebooks for Statistics that I have done for courses and research.\nHow you can use and modify them for your needs.\nA little under the hood (Javascript) on how they were done."
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#basic-mathematics",
+    "href": "slides/interactivity_slides.html#basic-mathematics",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Basic mathematics",
+    "text": "Basic mathematics\n\nThe derivative\nThe Riemann integral\nSecond derivative measures curvature of a function"
   }
 ]

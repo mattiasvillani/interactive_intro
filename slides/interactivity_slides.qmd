@@ -10,7 +10,7 @@ format: revealjs
 
 -   **How you can use and modify them** for your needs.
 
--   **A little under the hood** (Javascript) on how were done.
+-   **A little under the hood** (Javascript) on how they were done.
 
 ## Observable Notebooks
 
@@ -54,7 +54,7 @@ format: revealjs
 
 -   [Poisson regression](https://observablehq.com/@mattiasvillani/maximum-likelihood-poisson-regression)
 
-## Basic math
+## Basic mathematics
 
 -   The [derivative](https://observablehq.com/@mattiasvillani/the-derivative)
 
@@ -117,11 +117,13 @@ format: revealjs
 |   ![](figs/html.png)    |      ![](figs/css.png)      | ![](figs/js.png){width="190"}  |
 | What to show (**text**) | How to show it (**design**) | What to do (**interactivity**) |
 
-Javascript is the language of the web:
+-   Javascript is the language of the web:
 
--   Runs in all major browsers without install
+    -   Runs in all major browsers without install
 
--   Just-in-time compiled. Pretty quick!
+    -   Just-in-time compiled. Pretty quick!
+
+-   [Toy example](https://mattiasvillani.com/interactive_intro/js_example/dawg.html)
 
 ## Observable framework
 
