@@ -125,9 +125,7 @@ resources:
 
 ## Embed directly in Athena
 
-## ![](figs/athena.gif){width="616"}
-
-## 
+![](figs/athena.gif){width="616"}
 
 ## Fork the notebook to adapt it
 
