@@ -125,7 +125,7 @@ resources:
 
 ## Embed directly in Athena
 
-## ![](figs/athena.gif)
+## ![](figs/athena.gif){width="616"}
 
 ## 
 
