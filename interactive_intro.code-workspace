@@ -23,5 +23,6 @@
         92
     ],
 	"editor.wordWrapColumn": 92,
+	"liveServer.settings.multiRootWorkspaceName": "interactive_intro",
 	}
 }
