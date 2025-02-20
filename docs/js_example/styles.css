@@ -1,0 +1,24 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+.button_rounder {
+    background-color: #0e2891; 
+    border-radius: 10px;
+    border: 10px;
+    color: rgb(225, 232, 225);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+

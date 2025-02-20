@@ -1,0 +1,142 @@
+---
+title: "Interactivity - a complementary tool in the educational toolbox"
+author: "Mattias Villani"
+format: revealjs
+---
+
+## Outline of the talk
+
+-   **Tour of some interactive notebooks for Statistics** that I have done for courses and research.
+
+-   **How you can use and modify them** for your needs.
+
+-   **A little under the hood** (Javascript) on how were done.
+
+## Observable Notebooks
+
+-   Like Quarto/Jupyter: document with
+
+    -   **text** (markdown and html)
+
+    -   **math** (LaTeX)
+
+    -   **code**
+
+    -   **graphs**
+
+    -   **tables**
+
+-   **Interactive** with sliders, checkboxes etc.
+
+-   **Reactive** : change one cell and the cells that depends on the cell changes (DAG-based)
+
+-   Free (version) and wonderful infrastructure for hosting of notebooks on <https://observablehq.com/>
+
+## Nearly 50 Statistical distributions
+
+[List of Statistical distributions notebooks](https://observablehq.com/collection/@mattiasvillani/distributions)
+
+## Interval estimates
+
+-   [Confidence interval for a proportion](https://observablehq.com/@mattiasvillani/confidence-interval-for-a-proportion)
+
+-   [Confidence interval for a mean](https://observablehq.com/@mattiasvillani/confidence-interval-for-a-mean)
+
+-   [Bayesian credible intervals](https://observablehq.com/@mattiasvillani/bayesian-credible-intervals)
+
+-   [Coverage of intervals](https://observablehq.com/@mattiasvillani/coverage-of-confidence-intervals-for-a-proportion)
+
+## The likelihood function and the MLE
+
+-   [Bernoulli](https://observablehq.com/@mattiasvillani/maximum-likelihood-bernoulli-data)
+
+-   [Poisson](https://observablehq.com/@mattiasvillani/maximum-likelihood-for-iid-poisson-data)
+
+-   [Poisson regression](https://observablehq.com/@mattiasvillani/maximum-likelihood-poisson-regression)
+
+## Basic math
+
+-   The [derivative](https://observablehq.com/@mattiasvillani/the-derivative)
+
+-   The [Riemann integral](https://observablehq.com/@mattiasvillani/the-riemann-integral)
+
+-   [Second derivative measures curvature](https://observablehq.com/@mattiasvillani/second-derivative-measures-the-curvature-of-a-function) of a function
+
+## Probability
+
+-   [Approximating the binomial distribution](https://observablehq.com/@mattiasvillani/approximating-the-binomial-distribution)
+
+-   [Law of large numbers](https://observablehq.com/@mattiasvillani/law-large-numbers)
+
+-   [Central limit theorem](https://observablehq.com/@mattiasvillani/central-limit-theorem)
+
+-   [Tails of a distribution](https://observablehq.com/@mattiasvillani/distribution-of-the-maximum) (largest order statistic)
+
+-   [Distributions on the unit simplex](https://observablehq.com/@mattiasvillani/distributions-on-the-unit-simplex)
+
+-   [Kullback-Leibler divergence between distributions](Kullback-Leibler divergence for continuous distributions)
+
+## And of course lots of Bayes
+
+-   [Bayesian inference list with 35+ notebooks](https://observablehq.com/collection/@mattiasvillani/bayesian-learning)
+
+-   [Bayesian updating for the iid Normal model](https://observablehq.com/@mattiasvillani/bayes-iid-gaussian-known-var)
+
+-   [Bayesian linear regression](https://observablehq.com/@mattiasvillani/bayesian-linear-regression-bike-share-data)
+
+## Embed in Quarto/HTML presentations
+
+-   Clickable link at the bottom: credit to the author.
+
+```{=html}
+<iframe width="100%" height="564" frameborder="0"
+  src="https://observablehq.com/embed/@mattiasvillani/distribution-of-the-maximum?cells=viewof+inputs%2Cviewof+distrinputs%2Cbothplots"></iframe>
+```
+## Download static images
+
+![](figs/download_png.gif)
+
+## Embed widgets as iFrame
+
+![](figs/embed_iframe.gif)
+
+## Embed directly in Athena
+
+## ![](figs/athena.gif)
+
+##  
+
+## Fork the notebook to adapt it
+
+![](figs/fork.gif)
+
+## The three components of a web page
+
+|          HTML           |             CSS             |           Javascript           |
+|:----------------------:|:----------------------:|:----------------------:|
+|   ![](figs/html.png)    |      ![](figs/css.png)      | ![](figs/js.png){width="190"}  |
+| What to show (**text**) | How to show it (**design**) | What to do (**interactivity**) |
+
+Javascript is the language of the web:
+
+-   Runs in all major browsers without install
+
+-   Just-in-time compiled. Pretty quick!
+
+## Observable framework
+
+-   [Observable Framework](https://observablehq.com/framework/): **dashboards** instead of notebooks
+
+-   Examples: [US electricity grid](https://observablehq.observablehq.cloud/framework-example-eia/) \| [interest rates](https://observablehq.observablehq.cloud/framework-example-mortgage-rates/)
+
+-   Example (embryo): [Bayesian Learning dashboard](https://mattiasvillani.observablehq.cloud/bayesian-learning/)
+
+-   Different use case: better placement of multiple elements (graphs, sliders etc) on screen.
+
+-   **Data loaders** from any language, e.g. R, Python, Julia.
+
+    -   Data loaders are *executed at build* time.
+
+    -   Any interactivity in real time still handled by javascript.
+
+-   **It is just code** (not a notebook) = VS code + Git workflow.

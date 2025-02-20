@@ -16,6 +16,10 @@ editor:
 
 ### Material
 
+[My Observable notebooks for Statistics](https://mattiasvillani.com/interactive)
+
 [HTML+CSS+JS toy example](js_example/dawg.html)
+
+[Slides](slides/interactivity_slides.qmd)
 
 

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Interactivity - another tool in the educational toolbox",
     "section": "",
-    "text": "Star\n\nMaterial\nHTML+CSS+JS toy example"
+    "text": "Star\n\nMaterial\nMy Observable notebooks for Statistics\nHTML+CSS+JS toy example\nSlides"
   },
   {
     "objectID": "interactivity_slides.html#download-static-images",
@@ -33,5 +33,124 @@
     "title": "Interactivity - another tool in the educational toolbox",
     "section": "The three components of a web page",
     "text": "The three components of a web page\n\n\n\n\n\n\n\n\nHTML\nCSS\nJavascript\n\n\n\n\n\n\n\n\n\nWhat to show (text)\nHow to show it (design)\nWhat to do (interactivity)"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#embed-in-quartohtml-presentations",
+    "href": "slides/interactivity_slides.html#embed-in-quartohtml-presentations",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Embed in Quarto/HTML presentations",
+    "text": "Embed in Quarto/HTML presentations\n\nClickable link at the bottom: credit to the author."
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#download-static-images",
+    "href": "slides/interactivity_slides.html#download-static-images",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Download static images",
+    "text": "Download static images"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#embed-widgets-as-iframe",
+    "href": "slides/interactivity_slides.html#embed-widgets-as-iframe",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Embed widgets as iFrame",
+    "text": "Embed widgets as iFrame"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#embed-directly-in-athena",
+    "href": "slides/interactivity_slides.html#embed-directly-in-athena",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Embed directly in Athena",
+    "text": "Embed directly in Athena"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#the-three-components-of-a-web-page",
+    "href": "slides/interactivity_slides.html#the-three-components-of-a-web-page",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "The three components of a web page",
+    "text": "The three components of a web page\n\n\n\n\n\n\n\n\nHTML\nCSS\nJavascript\n\n\n\n\n\n\n\n\n\nWhat to show (text)\nHow to show it (design)\nWhat to do (interactivity)\n\n\n\nJavascript is the language of the web:\n\nRuns in all major browsers without install\nJust-in-time compiled. Pretty quick!"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#fork-the-notebook-to-adapt-it",
+    "href": "slides/interactivity_slides.html#fork-the-notebook-to-adapt-it",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Fork the notebook to adapt it",
+    "text": "Fork the notebook to adapt it"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#observable-framework",
+    "href": "slides/interactivity_slides.html#observable-framework",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Observable framework",
+    "text": "Observable framework\n\nObservable Framework: dashboards instead of notebooks\nExamples: US electricity grid | interest rates\nExample (embryo): Bayesian Learning dashboard\nDifferent use case: better placement of multiple elements (graphs, sliders etc) on screen.\nData loaders from any language, e.g. R, Python, Julia.\n\nData loaders are executed at build time.\nAny interactivity in real time still handled by javascript.\n\nIt is just code (not a notebook) = VS code + Git workflow."
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#bayesian-credible-intervals",
+    "href": "slides/interactivity_slides.html#bayesian-credible-intervals",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Bayesian credible intervals",
+    "text": "Bayesian credible intervals\nUsed on the Bayesian Learning (master level) course.\nBayesian credible interval notebook"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#coverage-properties-of-intervals-for-a-proportion",
+    "href": "slides/interactivity_slides.html#coverage-properties-of-intervals-for-a-proportion",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Coverage properties of intervals for a proportion",
+    "text": "Coverage properties of intervals for a proportion\nCoverage of intervals notebook"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#nearly-50-statistical-distributions",
+    "href": "slides/interactivity_slides.html#nearly-50-statistical-distributions",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Nearly 50 Statistical distributions",
+    "text": "Nearly 50 Statistical distributions\nList of Statistical distributions notebooks"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#interval-estimates",
+    "href": "slides/interactivity_slides.html#interval-estimates",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Interval estimates",
+    "text": "Interval estimates\n\nConfidence interval for a proportion\nConfidence interval for a mean\nBayesian credible intervals\nCoverage of intervals"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#the-likelihood-function-and-the-mle",
+    "href": "slides/interactivity_slides.html#the-likelihood-function-and-the-mle",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "The likelihood function and the MLE",
+    "text": "The likelihood function and the MLE\n\nBernoulli\nPoisson\nPoisson regression"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#basic-math",
+    "href": "slides/interactivity_slides.html#basic-math",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Basic math",
+    "text": "Basic math\n\nThe derivative\nThe Riemann integral\nSecond derivative measures curvature of a function"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#probability",
+    "href": "slides/interactivity_slides.html#probability",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Probability",
+    "text": "Probability\n\nApproximating the binomial distribution\nLaw of large numbers\nCentral limit theorem\nTails of a distribution (largest order statistic)\nDistributions on the unit simplex\nKullback-Leibler divergence between distributions"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#and-of-course-lots-of-bayes",
+    "href": "slides/interactivity_slides.html#and-of-course-lots-of-bayes",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "And of course lots of Bayes",
+    "text": "And of course lots of Bayes\n\nBayesian inference list with 35+ notebooks\nBayesian updating for the iid Normal model\nBayesian linear regression"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#observable-notebooks",
+    "href": "slides/interactivity_slides.html#observable-notebooks",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Observable Notebooks",
+    "text": "Observable Notebooks\n\nLike Quarto/Jupyter: document with\n\ntext (markdown and html)\nmath (LaTeX)\ncode\ngraphs\ntables\n\nInteractive with sliders, checkboxes etc.\nReactive : change one cell and the cells that depends on the cell changes (DAG-based)\nFree (version) and wonderful infrastructure for hosting of notebooks on https://observablehq.com/"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#outline-of-the-talk",
+    "href": "slides/interactivity_slides.html#outline-of-the-talk",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Outline of the talk",
+    "text": "Outline of the talk\n\nTour of some interactive notebooks for Statistics that I have done for courses and research.\nHow you can use and modify them for your needs.\nA little under the hood (Javascript) on how were done."
   }
 ]

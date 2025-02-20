@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../../BayesBook/Dashboard"
 		}
 	],
 	"settings": {
