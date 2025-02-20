@@ -102,14 +102,14 @@
     "href": "slides/interactivity_slides.html#nearly-50-statistical-distributions",
     "title": "Interactive learning using Observable javascript",
     "section": "Nearly 50 Statistical distributions",
-    "text": "Nearly 50 Statistical distributions\nList of Statistical distributions notebooks"
+    "text": "Nearly 50 Statistical distributions\nList of notebooks with statistical distributions"
   },
   {
     "objectID": "slides/interactivity_slides.html#interval-estimates",
     "href": "slides/interactivity_slides.html#interval-estimates",
     "title": "Interactive learning using Observable javascript",
     "section": "Interval estimates",
-    "text": "Interval estimates\n\nConfidence interval for a proportion\nConfidence interval for a mean\nBayesian credible intervals\nCoverage of intervals"
+    "text": "Interval estimates\n\nConfidence interval for a proportion\nConfidence interval for a mean\nBayesian credible intervals\nFrequentist coverage of intervals"
   },
   {
     "objectID": "slides/interactivity_slides.html#the-likelihood-function-and-the-mle",
@@ -158,7 +158,7 @@
     "href": "slides/interactivity_slides.html#basic-mathematics",
     "title": "Interactive learning using Observable javascript",
     "section": "Basic mathematics",
-    "text": "Basic mathematics\n\nThe derivative\nThe Riemann integral\nSecond derivative measures curvature of a function"
+    "text": "Basic mathematics\n\nThe Derivative\nThe Riemann integral\nSecond derivative measures curvature of a function"
   },
   {
     "objectID": "slides/interactivity_slides.html#time-series-analysis",

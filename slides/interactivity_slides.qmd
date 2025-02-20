@@ -36,7 +36,7 @@ resources:
 
 ## Nearly 50 Statistical distributions
 
-[List of Statistical distributions notebooks](https://observablehq.com/collection/@mattiasvillani/distributions)
+[List of notebooks with statistical distributions](https://observablehq.com/collection/@mattiasvillani/distributions)
 
 ## Interval estimates
 
@@ -46,7 +46,7 @@ resources:
 
 -   [Bayesian credible intervals](https://observablehq.com/@mattiasvillani/bayesian-credible-intervals)
 
--   [Coverage of intervals](https://observablehq.com/@mattiasvillani/coverage-of-confidence-intervals-for-a-proportion)
+-   [Frequentist coverage of intervals](https://observablehq.com/@mattiasvillani/coverage-of-confidence-intervals-for-a-proportion)
 
 ## The likelihood function and the MLE
 
@@ -58,7 +58,7 @@ resources:
 
 ## Basic mathematics
 
--   The [derivative](https://observablehq.com/@mattiasvillani/the-derivative)
+-   The [Derivative](https://observablehq.com/@mattiasvillani/the-derivative)
 
 -   The [Riemann integral](https://observablehq.com/@mattiasvillani/the-riemann-integral)
 
