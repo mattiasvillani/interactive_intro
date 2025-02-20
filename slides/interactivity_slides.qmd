@@ -3,7 +3,7 @@ title: "Interactivity - a complementary tool in the educational toolbox"
 author: "Mattias Villani"
 format: revealjs
 resources:
-  - ../js_example/dawg.html
+  - "../js_example/dawg.html"
 ---
 
 ## Outline of the talk
