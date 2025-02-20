@@ -396,6 +396,7 @@ Mattias Villani
 <li><p><a href="https://observablehq.com/@mattiasvillani/law-large-numbers">Law of large numbers</a></p></li>
 <li><p><a href="https://observablehq.com/@mattiasvillani/central-limit-theorem">Central limit theorem</a></p></li>
 <li><p><a href="https://observablehq.com/@mattiasvillani/distribution-of-the-maximum">Tails of a distribution</a> (largest order statistic)</p></li>
+<li><p><a href="https://observablehq.com/@mattiasvillani/normal-mixture">Mixture of normals distribution</a></p></li>
 <li><p><a href="https://observablehq.com/@mattiasvillani/distributions-on-the-unit-simplex">Distributions on the unit simplex</a></p></li>
 <li><p><a href="Kullback-Leibler divergence for continuous distributions">Kullback-Leibler divergence between distributions</a></p></li>
 </ul>
@@ -406,6 +407,23 @@ Mattias Villani
 <li><p><a href="https://observablehq.com/collection/@mattiasvillani/bayesian-learning">Bayesian inference list with 35+ notebooks</a></p></li>
 <li><p><a href="https://observablehq.com/@mattiasvillani/bayes-iid-gaussian-known-var">Bayesian updating for the iid Normal model</a></p></li>
 <li><p><a href="https://observablehq.com/@mattiasvillani/bayesian-linear-regression-bike-share-data">Bayesian linear regression</a></p></li>
+</ul>
+</section>
+<section id="time-series-analysis" class="slide level2">
+<h2>Time series analysis</h2>
+<ul>
+<li><p><a href="https://observablehq.com/@mattiasvillani/ar-simulation-and-autocorrelation">Simulation and ACF of an AR process</a></p></li>
+<li><p><a href="https://observablehq.com/@mattiasvillani/spectral-density-seasonal-arma-p-q-p-q-process">Spectral density and ACF of seasonal ARMA</a></p></li>
+<li><p><a href="https://observablehq.com/@mattiasvillani/kalman-filtering-nile-river-data">Kalman filtering for Nile river data</a></p></li>
+<li><p><a href="https://observablehq.com/@mattiasvillani/poisson-time-series-model">Poisson time series model for counts</a></p></li>
+<li><p><a href="https://observablehq.com/@mattiasvillani/stochastic-volatility-time-series-model">Stochastic volatility model</a></p></li>
+</ul>
+</section>
+<section id="research" class="slide level2">
+<h2>Research</h2>
+<ul>
+<li><p><a href="https://observablehq.com/@mattiasvillani/ident-mean-ar-1-process">Identification of mean/intercept in AR(1) process</a></p></li>
+<li><p><a href="https://observablehq.com/@mattiasvillani/tvsar-spectral-usip">Time-varying spectral density for US industrial production</a></p></li>
 </ul>
 </section>
 <section id="embed-in-quartohtml-presentations" class="slide level2">
@@ -470,9 +488,34 @@ Mattias Villani
 <li><p>Runs in all major browsers without install</p></li>
 <li><p>Just-in-time compiled. Pretty quick!</p></li>
 </ul></li>
-<li><p><a href="https://mattiasvillani.com/interactive_intro/js_example/dawg.html">Toy example</a></p></li>
+<li><p><a href="https://htmlcheatsheet.com/js/">Javascript cheat sheet</a></p></li>
+<li><p><a href="https://github.com/mattiasvillani/interactive_intro/raw/main/js_example/js_example.zip">Toy example</a></p></li>
 </ul>
 </section>
+<section id="d3---javascript-library-for-visualization" class="slide level2">
+<h2>D3 - javascript library for visualization</h2>
+<ul>
+<li><p><a href="https://d3js.org/">D3</a></p></li>
+<li><p>Full control, but much more low-level than Observable notebooks.</p></li>
+<li><p><a href="https://observablehq.com/@d3/gallery?utm_source=d3js-org&amp;utm_medium=hero&amp;utm_campaign=try-observable">D3 Examples</a></p></li>
+</ul>
+</section>
+<section id="observable-notebooks-1" class="slide level2">
+<h2>Observable notebooks</h2>
+<ul>
+<li><p>Builds on the <a href="https://observablehq.com/plot/">Plot library</a> by the creator of D3.</p></li>
+<li><p>Javascript (almost)</p>
+<ul>
+<li><p>Note: javascript uses zero-based indexing</p></li>
+<li><p>The <strong>Plot</strong> library is based on the grammar of graphics (ggplot2 in R): 90% of time is setting up the right dataset.</p></li>
+<li><p>Fundamental data structure is vector of objects (dictionaries).</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="data-object-in-observable" class="slide level2">
+<h2>Data object in Observable</h2>
+
+<img data-src="figs/data_object_js.png" width="1200" class="r-stretch quarto-figure-center"></section>
 <section id="observable-framework" class="slide level2">
 <h2>Observable framework</h2>
 <ul>

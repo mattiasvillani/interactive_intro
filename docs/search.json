@@ -67,7 +67,7 @@
     "href": "slides/interactivity_slides.html#the-three-components-of-a-web-page",
     "title": "Interactivity - a complementary tool in the educational toolbox",
     "section": "The three components of a web page",
-    "text": "The three components of a web page\n\n\n\n\n\n\n\n\nHTML\nCSS\nJavascript\n\n\n\n\n\n\n\n\n\nWhat to show (text)\nHow to show it (design)\nWhat to do (interactivity)\n\n\n\n\nJavascript is the language of the web:\n\nRuns in all major browsers without install\nJust-in-time compiled. Pretty quick!\n\nToy example"
+    "text": "The three components of a web page\n\n\n\n\n\n\n\n\nHTML\nCSS\nJavascript\n\n\n\n\n\n\n\n\n\nWhat to show (text)\nHow to show it (design)\nWhat to do (interactivity)\n\n\n\n\nJavascript is the language of the web:\n\nRuns in all major browsers without install\nJust-in-time compiled. Pretty quick!\n\nJavascript cheat sheet\nToy example"
   },
   {
     "objectID": "slides/interactivity_slides.html#fork-the-notebook-to-adapt-it",
@@ -130,7 +130,7 @@
     "href": "slides/interactivity_slides.html#probability",
     "title": "Interactivity - a complementary tool in the educational toolbox",
     "section": "Probability",
-    "text": "Probability\n\nApproximating the binomial distribution\nLaw of large numbers\nCentral limit theorem\nTails of a distribution (largest order statistic)\nDistributions on the unit simplex\nKullback-Leibler divergence between distributions"
+    "text": "Probability\n\nApproximating the binomial distribution\nLaw of large numbers\nCentral limit theorem\nTails of a distribution (largest order statistic)\nMixture of normals distribution\nDistributions on the unit simplex\nKullback-Leibler divergence between distributions"
   },
   {
     "objectID": "slides/interactivity_slides.html#and-of-course-lots-of-bayes",
@@ -159,5 +159,40 @@
     "title": "Interactivity - a complementary tool in the educational toolbox",
     "section": "Basic mathematics",
     "text": "Basic mathematics\n\nThe derivative\nThe Riemann integral\nSecond derivative measures curvature of a function"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#time-series-analysis",
+    "href": "slides/interactivity_slides.html#time-series-analysis",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Time series analysis",
+    "text": "Time series analysis\n\nSimulation and ACF of an AR process\nSpectral density and ACF of seasonal ARMA\nKalman filtering for Nile river data\nPoisson time series model for counts\nStochastic volatility model"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#research",
+    "href": "slides/interactivity_slides.html#research",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Research",
+    "text": "Research\n\nIdentification of mean/intercept in AR(1) process\nTime-varying spectral density for US industrial production"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#d3---javascript-library-for-visualization",
+    "href": "slides/interactivity_slides.html#d3---javascript-library-for-visualization",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "D3 - javascript library for visualization",
+    "text": "D3 - javascript library for visualization\n\nD3\nFull control, but much more low-level than Observable notebooks.\nD3 Examples"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#observable-notebooks-1",
+    "href": "slides/interactivity_slides.html#observable-notebooks-1",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Observable notebooks",
+    "text": "Observable notebooks\n\nBuilds on the Plot library by the creator of D3.\nJavascript (almost)\n\nNote: javascript uses zero-based indexing\nThe Plot library is based on the grammar of graphics (ggplot2 in R): 90% of time is setting up the right dataset.\nFundamental data structure is vector of objects (dictionaries)."
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#data-object-in-observable",
+    "href": "slides/interactivity_slides.html#data-object-in-observable",
+    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "section": "Data object in Observable",
+    "text": "Data object in Observable"
   }
 ]

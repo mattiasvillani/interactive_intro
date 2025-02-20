@@ -74,9 +74,11 @@ resources:
 
 -   [Tails of a distribution](https://observablehq.com/@mattiasvillani/distribution-of-the-maximum) (largest order statistic)
 
+-   [Mixture of normals distribution](https://observablehq.com/@mattiasvillani/normal-mixture)
+
 -   [Distributions on the unit simplex](https://observablehq.com/@mattiasvillani/distributions-on-the-unit-simplex)
 
--   [Kullback-Leibler divergence between distributions](Kullback-Leibler divergence for continuous distributions)
+-   [Kullback-Leibler divergence between distributions](Kullback-Leibler%20divergence%20for%20continuous%20distributions)
 
 ## And of course lots of Bayes
 
@@ -85,6 +87,24 @@ resources:
 -   [Bayesian updating for the iid Normal model](https://observablehq.com/@mattiasvillani/bayes-iid-gaussian-known-var)
 
 -   [Bayesian linear regression](https://observablehq.com/@mattiasvillani/bayesian-linear-regression-bike-share-data)
+
+## Time series analysis
+
+-   [Simulation and ACF of an AR process](https://observablehq.com/@mattiasvillani/ar-simulation-and-autocorrelation)
+
+-   [Spectral density and ACF of seasonal ARMA](https://observablehq.com/@mattiasvillani/spectral-density-seasonal-arma-p-q-p-q-process)
+
+-   [Kalman filtering for Nile river data](https://observablehq.com/@mattiasvillani/kalman-filtering-nile-river-data)
+
+-   [Poisson time series model for counts](https://observablehq.com/@mattiasvillani/poisson-time-series-model)
+
+-   [Stochastic volatility model](https://observablehq.com/@mattiasvillani/stochastic-volatility-time-series-model)
+
+## Research
+
+-   [Identification of mean/intercept in AR(1) process](https://observablehq.com/@mattiasvillani/ident-mean-ar-1-process)
+
+-   [Time-varying spectral density for US industrial production](https://observablehq.com/@mattiasvillani/tvsar-spectral-usip)
 
 ## Embed in Quarto/HTML presentations
 
@@ -106,7 +126,7 @@ resources:
 
 ## ![](figs/athena.gif)
 
-##  
+## 
 
 ## Fork the notebook to adapt it
 
@@ -125,7 +145,33 @@ resources:
 
     -   Just-in-time compiled. Pretty quick!
 
--   [Toy example](https://mattiasvillani.com/interactive_intro/js_example/dawg.html)
+-   [Javascript cheat sheet](https://htmlcheatsheet.com/js/)
+
+-   [Toy example](https://github.com/mattiasvillani/interactive_intro/raw/main/js_example/js_example.zip)
+
+## D3 - javascript library for visualization
+
+-   [D3](https://d3js.org/)
+
+-   Full control, but much more low-level than Observable notebooks.
+
+-   [D3 Examples](https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=hero&utm_campaign=try-observable)
+
+## Observable notebooks
+
+-   Builds on the [Plot library](https://observablehq.com/plot/) by the creator of D3.
+
+-   Javascript (almost)
+
+    -   Note: javascript uses zero-based indexing
+
+    -   The **Plot** library is based on the grammar of graphics (ggplot2 in R): 90% of time is setting up the right dataset.
+
+    -   Fundamental data structure is vector of objects (dictionaries).
+
+## Data object in Observable
+
+![](figs/data_object_js.png){fig-align="center" width="1200"}
 
 ## Observable framework
 
