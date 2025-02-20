@@ -8,11 +8,11 @@ resources:
 
 ## Outline of the talk
 
--   **Tour of some interactive notebooks for Statistics** that I have done for courses and research.
-
--   **How you can use and modify them** for your needs.
-
--   **A little peek under the hood** (Javascript) on how they were done.
+-   **[Tour of some interactive notebooks]{style="color:#ff8000"}** for Statistics that I have done for courses and research.
+<br><br>
+-   **[How you can use and modify them]{style="color:#ff8000"}** for your needs.
+<br><br>
+-   A little peek under the hood on **[how they were done with Javascript]{style="color:#ff8000"}**. 
 
 ## Observable Notebooks
 
@@ -28,9 +28,9 @@ resources:
 
     -   **tables**
 
--   **Interactive** with sliders, checkboxes etc.
+-   **[Interactive]{style="color:#ff8000"}** with sliders, checkboxes etc.
 
--   **Reactive** : change one cell and the cells that depends on the cell changes (DAG-based)
+-   **[Reactive]{style="color:#ff8000"}**: change one cell and the cells that depends on the cell changes (DAG-based)
 
 -   Free (version) and wonderful infrastructure for hosting of notebooks on <https://observablehq.com/>
 

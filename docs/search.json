@@ -144,14 +144,14 @@
     "href": "slides/interactivity_slides.html#observable-notebooks",
     "title": "Interactive learning using Observable javascript",
     "section": "Observable Notebooks",
-    "text": "Observable Notebooks\n\nLike Quarto/Jupyter: document with\n\ntext (markdown and html)\nmath (LaTeX)\ncode\ngraphs\ntables\n\nInteractive with sliders, checkboxes etc.\nReactive : change one cell and the cells that depends on the cell changes (DAG-based)\nFree (version) and wonderful infrastructure for hosting of notebooks on https://observablehq.com/"
+    "text": "Observable Notebooks\n\nLike Quarto/Jupyter: document with\n\ntext (markdown and html)\nmath (LaTeX)\ncode\ngraphs\ntables\n\nInteractive with sliders, checkboxes etc.\nReactive: change one cell and the cells that depends on the cell changes (DAG-based)\nFree (version) and wonderful infrastructure for hosting of notebooks on https://observablehq.com/"
   },
   {
     "objectID": "slides/interactivity_slides.html#outline-of-the-talk",
     "href": "slides/interactivity_slides.html#outline-of-the-talk",
     "title": "Interactive learning using Observable javascript",
     "section": "Outline of the talk",
-    "text": "Outline of the talk\n\nTour of some interactive notebooks for Statistics that I have done for courses and research.\nHow you can use and modify them for your needs.\nA little peek under the hood (Javascript) on how they were done."
+    "text": "Outline of the talk\n\nTour of some interactive notebooks for Statistics that I have done for courses and research. \nHow you can use and modify them for your needs. \nA little peek under the hood on how they were done with Javascript."
   },
   {
     "objectID": "slides/interactivity_slides.html#basic-mathematics",
