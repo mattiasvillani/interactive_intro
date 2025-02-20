@@ -1,5 +1,5 @@
 ---
-title: "Interactivity - another tool in the educational toolbox"
+title: "Interactive learning using Observable javascript"
 format: html
 editor:
   markdown:
