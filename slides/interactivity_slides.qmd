@@ -86,7 +86,7 @@ resources:
 
 -   [Distributions on the unit simplex](https://observablehq.com/@mattiasvillani/distributions-on-the-unit-simplex)
 
--   [Kullback-Leibler divergence between distributions](Kullback-Leibler%20divergence%20for%20continuous%20distributions)
+-   [Kullback-Leibler divergence between distributions](https://observablehq.com/@mattiasvillani/kl-divergence-continuous)
 
 ## And of course lots of Bayes
 
