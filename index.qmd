@@ -1,0 +1,21 @@
+---
+title: "Interactivity - another tool in the educational toolbox"
+format: html
+editor:
+  markdown:
+    wrap: 72
+---
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<img src="misc/banner_image4.png" alt="AI generated banner image" class="center" width="100%"/>
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/mattiasvillani/interactive_intro" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Star mattiasvillani/interactive_intro on GitHub">Star</a>
+
+### Material
+
+[HTML+CSS+JS toy example](js_example/dawg.html)
+
+

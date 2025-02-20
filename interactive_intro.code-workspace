@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local",
+		"editor.wordWrap": "wordWrapColumn",
+		"workbench.colorCustomizations": {
+    			"[Atom One Light]": {
+        		"titleBar.activeBackground": "#0b1014",
+        		"statusBar.background": "#0021f3",
+        		"statusBar.foreground": "#ffffff",
+    			}
+    		},
+    "workbench.productIconTheme": "fluent-icons",
+    "spotify.showLyricsButton": false,
+    "editor.rulers": [
+        92
+    ],
+	"editor.wordWrapColumn": 92,
+	}
+}
