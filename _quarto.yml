@@ -14,10 +14,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-        
+
   page-footer:
     center:
-      - text: "Intro to Bayes"       
+      - text: "Intro to Bayes"
       #href: stealourcourse.qmd
     right:
       - icon: github
@@ -26,8 +26,8 @@ website:
 format:
   html:
     theme:
-      dark: superhero # litera, lumen, superhero, united
       light: lumen
+      dark: superhero # litera, lumen, superhero, united
     css: styles.css
     toc: true
     toc-title: Sections

@@ -12,7 +12,7 @@ resources:
 
 -   **How you can use and modify them** for your needs.
 
--   **A little under the hood** (Javascript) on how they were done.
+-   **A little peek under the hood** (Javascript) on how they were done.
 
 ## Observable Notebooks
 
