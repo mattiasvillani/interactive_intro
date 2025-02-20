@@ -56,6 +56,14 @@ resources:
 
 -   [Poisson regression](https://observablehq.com/@mattiasvillani/maximum-likelihood-poisson-regression)
 
+## Hypothesis testing
+
+-   [Hypothesis test for a mean](https://observablehq.com/@mattiasvillani/hypothesis-test-mean)
+
+-   [Type I and II errors](https://observablehq.com/@mattiasvillani/hypothesis-test-for-a-mean-type-i-and-ii-errors)
+
+-   [Bayesian hypothesis test for a mean](https://observablehq.com/@mattiasvillani/bayesian-test-mean-normal-pop)
+
 ## Basic mathematics
 
 -   The [Derivative](https://observablehq.com/@mattiasvillani/the-derivative)

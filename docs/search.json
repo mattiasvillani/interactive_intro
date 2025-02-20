@@ -194,5 +194,12 @@
     "title": "Interactive learning using Observable javascript",
     "section": "Data object in Observable",
     "text": "Data object in Observable"
+  },
+  {
+    "objectID": "slides/interactivity_slides.html#hypothesis-testing",
+    "href": "slides/interactivity_slides.html#hypothesis-testing",
+    "title": "Interactive learning using Observable javascript",
+    "section": "Hypothesis testing",
+    "text": "Hypothesis testing\n\nHypothesis test for a mean\nType I and II errors\nBayesian hypothesis test for a mean"
   }
 ]
