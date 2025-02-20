@@ -37,49 +37,49 @@
   {
     "objectID": "slides/interactivity_slides.html#embed-in-quartohtml-presentations",
     "href": "slides/interactivity_slides.html#embed-in-quartohtml-presentations",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Embed in Quarto/HTML presentations",
     "text": "Embed in Quarto/HTML presentations\n\nClickable link at the bottom: credit to the author.\nExample lecture based on Quarto + Interactivity:"
   },
   {
     "objectID": "slides/interactivity_slides.html#download-static-images",
     "href": "slides/interactivity_slides.html#download-static-images",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Download static images",
     "text": "Download static images"
   },
   {
     "objectID": "slides/interactivity_slides.html#embed-widgets-as-iframe",
     "href": "slides/interactivity_slides.html#embed-widgets-as-iframe",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Embed widgets as iFrame",
     "text": "Embed widgets as iFrame"
   },
   {
     "objectID": "slides/interactivity_slides.html#embed-directly-in-athena",
     "href": "slides/interactivity_slides.html#embed-directly-in-athena",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Embed directly in Athena",
     "text": "Embed directly in Athena"
   },
   {
     "objectID": "slides/interactivity_slides.html#the-three-components-of-a-web-page",
     "href": "slides/interactivity_slides.html#the-three-components-of-a-web-page",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "The three components of a web page",
     "text": "The three components of a web page\n\n\n\n\n\n\n\n\nHTML\nCSS\nJavascript\n\n\n\n\n\n\n\n\n\nWhat to show (text)\nHow to show it (design)\nWhat to do (interactivity)\n\n\n\n\nJavascript is the language of the web:\n\nRuns in all major browsers without install\nJust-in-time compiled. Pretty quick!\n\nJavascript cheat sheet\nToy example"
   },
   {
     "objectID": "slides/interactivity_slides.html#fork-the-notebook-to-adapt-it",
     "href": "slides/interactivity_slides.html#fork-the-notebook-to-adapt-it",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Fork the notebook to adapt it",
     "text": "Fork the notebook to adapt it"
   },
   {
     "objectID": "slides/interactivity_slides.html#observable-framework",
     "href": "slides/interactivity_slides.html#observable-framework",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Observable framework",
     "text": "Observable framework\n\nObservable Framework: dashboards instead of notebooks\nExamples: US electricity grid | interest rates\nExample (embryo): Bayesian Learning dashboard\nDifferent use case: better placement of multiple elements (graphs, sliders etc) on screen.\nData loaders from any language, e.g. R, Python, Julia.\n\nData loaders are executed at build time.\nAny interactivity in real time still handled by javascript.\n\nIt is just code (not a notebook) = VS code + Git workflow."
   },
@@ -100,21 +100,21 @@
   {
     "objectID": "slides/interactivity_slides.html#nearly-50-statistical-distributions",
     "href": "slides/interactivity_slides.html#nearly-50-statistical-distributions",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Nearly 50 Statistical distributions",
     "text": "Nearly 50 Statistical distributions\nList of Statistical distributions notebooks"
   },
   {
     "objectID": "slides/interactivity_slides.html#interval-estimates",
     "href": "slides/interactivity_slides.html#interval-estimates",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Interval estimates",
     "text": "Interval estimates\n\nConfidence interval for a proportion\nConfidence interval for a mean\nBayesian credible intervals\nCoverage of intervals"
   },
   {
     "objectID": "slides/interactivity_slides.html#the-likelihood-function-and-the-mle",
     "href": "slides/interactivity_slides.html#the-likelihood-function-and-the-mle",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "The likelihood function and the MLE",
     "text": "The likelihood function and the MLE\n\nBernoulli\nPoisson\nPoisson regression"
   },
@@ -128,70 +128,70 @@
   {
     "objectID": "slides/interactivity_slides.html#probability",
     "href": "slides/interactivity_slides.html#probability",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Probability",
     "text": "Probability\n\nApproximating the binomial distribution\nLaw of large numbers\nCentral limit theorem\nTails of a distribution (largest order statistic)\nMixture of normals distribution\nDistributions on the unit simplex\nKullback-Leibler divergence between distributions"
   },
   {
     "objectID": "slides/interactivity_slides.html#and-of-course-lots-of-bayes",
     "href": "slides/interactivity_slides.html#and-of-course-lots-of-bayes",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "And of course lots of Bayes",
     "text": "And of course lots of Bayes\n\nBayesian inference list with 35+ notebooks\nBayesian updating for the iid Normal model\nBayesian linear regression"
   },
   {
     "objectID": "slides/interactivity_slides.html#observable-notebooks",
     "href": "slides/interactivity_slides.html#observable-notebooks",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Observable Notebooks",
     "text": "Observable Notebooks\n\nLike Quarto/Jupyter: document with\n\ntext (markdown and html)\nmath (LaTeX)\ncode\ngraphs\ntables\n\nInteractive with sliders, checkboxes etc.\nReactive : change one cell and the cells that depends on the cell changes (DAG-based)\nFree (version) and wonderful infrastructure for hosting of notebooks on https://observablehq.com/"
   },
   {
     "objectID": "slides/interactivity_slides.html#outline-of-the-talk",
     "href": "slides/interactivity_slides.html#outline-of-the-talk",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Outline of the talk",
     "text": "Outline of the talk\n\nTour of some interactive notebooks for Statistics that I have done for courses and research.\nHow you can use and modify them for your needs.\nA little peek under the hood (Javascript) on how they were done."
   },
   {
     "objectID": "slides/interactivity_slides.html#basic-mathematics",
     "href": "slides/interactivity_slides.html#basic-mathematics",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Basic mathematics",
     "text": "Basic mathematics\n\nThe derivative\nThe Riemann integral\nSecond derivative measures curvature of a function"
   },
   {
     "objectID": "slides/interactivity_slides.html#time-series-analysis",
     "href": "slides/interactivity_slides.html#time-series-analysis",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Time series analysis",
     "text": "Time series analysis\n\nSimulation and ACF of an AR process\nSpectral density and ACF of seasonal ARMA\nKalman filtering for Nile river data\nPoisson time series model for counts\nStochastic volatility model"
   },
   {
     "objectID": "slides/interactivity_slides.html#research",
     "href": "slides/interactivity_slides.html#research",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Research",
     "text": "Research\n\nIdentification of mean/intercept in AR(1) process\nTime-varying spectral density for US industrial production"
   },
   {
     "objectID": "slides/interactivity_slides.html#d3---javascript-library-for-visualization",
     "href": "slides/interactivity_slides.html#d3---javascript-library-for-visualization",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "D3 - javascript library for visualization",
     "text": "D3 - javascript library for visualization\n\nD3\nFull control, but much more low-level than Observable notebooks.\nD3 Examples"
   },
   {
     "objectID": "slides/interactivity_slides.html#observable-notebooks-1",
     "href": "slides/interactivity_slides.html#observable-notebooks-1",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Observable notebooks",
     "text": "Observable notebooks\n\nBuilds on the Plot library by the creator of D3.\nJavascript (almost)\n\nNote: javascript uses zero-based indexing\nThe Plot library is based on the grammar of graphics (ggplot2 in R): 90% of time is setting up the right dataset.\nFundamental data structure is vector of objects (dictionaries)."
   },
   {
     "objectID": "slides/interactivity_slides.html#data-object-in-observable",
     "href": "slides/interactivity_slides.html#data-object-in-observable",
-    "title": "Interactivity - a complementary tool in the educational toolbox",
+    "title": "Interactive learning using Observable javascript",
     "section": "Data object in Observable",
     "text": "Data object in Observable"
   }
