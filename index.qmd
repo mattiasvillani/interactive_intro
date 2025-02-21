@@ -16,10 +16,12 @@ editor:
 
 ### Material
 
+[Slides](slides/interactivity_slides.qmd)
+
 [My Observable notebooks for Statistics](https://mattiasvillani.com/interactive)
 
-[HTML+CSS+JS toy example](js_example/js_example.zip)
+[Example guest lecture on State-space models using Quarto and widgets](https://statisticssu.github.io/STM/tutorial/statespace/statespace.html)
 
-[Slides](slides/interactivity_slides.qmd)
+[HTML+CSS+JS toy example](js_example/js_example.zip)
 
 
