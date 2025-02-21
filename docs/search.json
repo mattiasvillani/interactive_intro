@@ -109,7 +109,7 @@
     "href": "slides/interactivity_slides.html#interval-estimates",
     "title": "Interactive learning using Observable javascript",
     "section": "Interval estimates",
-    "text": "Interval estimates\n\nConfidence interval for a proportion\nConfidence interval for a mean\nBayesian credible intervals\nFrequentist coverage of intervals"
+    "text": "Interval estimates\n\nConfidence interval for a proportion\nFrequentist coverage of intervals: Wald vs Wilson\nConfidence interval for a mean\nBayesian credible intervals\nFrequentist coverage of intervals: Wald vs Wilson vs Bayes"
   },
   {
     "objectID": "slides/interactivity_slides.html#the-likelihood-function-and-the-mle",

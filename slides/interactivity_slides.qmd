@@ -42,11 +42,15 @@ resources:
 
 -   [Confidence interval for a proportion](https://observablehq.com/@mattiasvillani/confidence-interval-for-a-proportion)
 
+-   [Frequentist coverage of intervals: Wald vs Wilson](https://observablehq.com/@mattiasvillani/ci-proportion-wald-vs-wilson)
+
 -   [Confidence interval for a mean](https://observablehq.com/@mattiasvillani/confidence-interval-for-a-mean)
 
 -   [Bayesian credible intervals](https://observablehq.com/@mattiasvillani/bayesian-credible-intervals)
 
--   [Frequentist coverage of intervals](https://observablehq.com/@mattiasvillani/coverage-of-confidence-intervals-for-a-proportion)
+-   [Frequentist coverage of intervals: Wald vs Wilson vs Bayes](https://observablehq.com/@mattiasvillani/coverage-of-confidence-intervals-for-a-proportion)
+
+
 
 ## The likelihood function and the MLE
 
